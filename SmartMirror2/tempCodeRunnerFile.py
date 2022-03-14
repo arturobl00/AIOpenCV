@@ -1,0 +1,1 @@
+height, width, _ = image.shape
